@@ -1,0 +1,14 @@
+https://puzzling.stackexchange.com/questions/99181/how-many-rolls-on-average-to-get-n-dice-to-all-show-the-same-value
+
+How many rolls on average to get N dice to all show the same value?
+
+So for example:
+
+if N=3
+ roll and get -> 1,2,3
+ re-roll the 2 and 3 -> 1,4,4
+ re-roll the 1 -> 2,4,4
+ re-roll the 2 -> 4,4,4
+In this case, it took 4 rolls for N=3 but what is the average number of rolls for N?
+
+Note that this question is a little trickier than it seems.
